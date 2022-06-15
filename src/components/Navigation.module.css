@@ -1,0 +1,7 @@
+@media (max-width: 700px) {
+	.navbarContainer {
+		width: 100vw;
+		background-color: red;
+		height: 2rem;
+	}
+}
